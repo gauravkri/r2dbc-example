@@ -1,0 +1,9 @@
+#spring:
+#  r2dbc:
+#    url: r2dbc:postgresql://172.16.3.17:5132/wani
+#    username: wani
+#    password:
+#  r2dbc.master:
+#    url: r2dbc:postgresql://172.16.3.17:5132/wani_replica
+#    username: wani
+#    password:
